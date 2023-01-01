@@ -1,0 +1,3 @@
+C:/Users/ciard/Desktop/Da Consegnare/K-means/Parallel_K_means/cmake-build-debug/CMakeFiles/K_meansPar.dir
+C:/Users/ciard/Desktop/Da Consegnare/K-means/Parallel_K_means/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ciard/Desktop/Da Consegnare/K-means/Parallel_K_means/cmake-build-debug/CMakeFiles/rebuild_cache.dir
