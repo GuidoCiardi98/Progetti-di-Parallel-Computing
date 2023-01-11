@@ -1,3 +1,0 @@
-C:/Users/ciard/Desktop/Informatica/2Magistrale/Materie/Parallel Computing/Progetti/Da Consegnare/K-means/Sequential_K_means/cmake-build-debug/CMakeFiles/K_meansSeq.dir
-C:/Users/ciard/Desktop/Informatica/2Magistrale/Materie/Parallel Computing/Progetti/Da Consegnare/K-means/Sequential_K_means/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ciard/Desktop/Informatica/2Magistrale/Materie/Parallel Computing/Progetti/Da Consegnare/K-means/Sequential_K_means/cmake-build-debug/CMakeFiles/rebuild_cache.dir
